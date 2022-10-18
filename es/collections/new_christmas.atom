@@ -1,0 +1,1383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://callisters-ishi.myshopify.com/es/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://callisters-ishi.myshopify.com/es/collections/new_christmas.atom"/>
+  <title>Callisters Sectioned Shopify Theme</title>
+  <updated>2019-11-11T02:36:31-05:00</updated>
+  <author>
+    <name>Callisters Sectioned Shopify Theme</name>
+  </author>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355686563937</id>
+    <published>2019-11-11T02:36:31-05:00</published>
+    <updated>2019-11-11T02:36:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/texas-staircase-christmas-gift"/>
+    <title>Texas Staircase Christmas Gift</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/14_a63bd8fb-67c1-4961-8201-27bfb8da5180.jpg?v=1634717491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_zara</s:tag>
+    <s:tag>christmas_candles</s:tag>
+    <s:tag>christmas_linens</s:tag>
+    <s:tag>christmas_tree</s:tag>
+    <s:tag>color_purple</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355686563937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355686269025</id>
+    <published>2019-11-11T02:36:24-05:00</published>
+    <updated>2019-11-11T02:36:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/candles-christmas-tree"/>
+    <title>Candles Christmas Tree</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/11.jpg?v=1634717389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_only</s:tag>
+    <s:tag>christmas_linens</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_gray</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355686269025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355686105185</id>
+    <published>2019-11-11T02:36:11-05:00</published>
+    <updated>2019-11-11T02:36:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/space-riva-queen-candy"/>
+    <title>Space Riva Queen Candy</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/9_cafe0cb5-184c-4892-aa7b-97aabb0d6fbf.jpg?v=1634717488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_zara</s:tag>
+    <s:tag>christmas_candles</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XS</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355686105185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355685613665</id>
+    <published>2019-11-11T02:35:52-05:00</published>
+    <updated>2019-11-11T02:35:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/rack-walnut-laminated"/>
+    <title>Rack Walnut Laminated</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/4_201bcb39-2733-4143-9539-1d3f72f30f46.jpg?v=1634717477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_only</s:tag>
+    <s:tag>brand_zara</s:tag>
+    <s:tag>christmas_linens</s:tag>
+    <s:tag>christmas_tree</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355685613665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355685154913</id>
+    <published>2019-11-11T02:35:27-05:00</published>
+    <updated>2019-11-11T02:35:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/holiday-outgik-ornament-ball"/>
+    <title>Holiday Outgik Ornament Ball</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/3_ef2fd5e4-242c-4c51-9c3f-36d7a7d11a00.jpg?v=1634717456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_only</s:tag>
+    <s:tag>christmas_candles</s:tag>
+    <s:tag>christmas_linens</s:tag>
+    <s:tag>christmas_tree</s:tag>
+    <s:tag>color_gray</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355685154913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355684696161</id>
+    <published>2019-11-11T02:35:19-05:00</published>
+    <updated>2019-11-11T02:35:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/the-christmas-neckline-candles"/>
+    <title>The Christmas neckline candles</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/5_46cfc02a-46f0-4f77-8a20-e16c557951d8.jpg?v=1634717502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            20.00 - 30.00
+            <a href="https://callisters-ishi.myshopify.com/es/products/the-christmas-neckline-candles">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_levis</s:tag>
+    <s:tag>christmas_candles</s:tag>
+    <s:tag>christmas_linens</s:tag>
+    <s:tag>color_gray</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355684696161</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355684696161</id>
+      <title>S / Green</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355684696161</id>
+      <title>S / Yellow</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355684696161</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355684696161</id>
+      <title>M / Green</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355684696161</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355684696161</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355684696161</id>
+      <title>L / Green</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355684696161</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355684499553</id>
+    <published>2019-11-11T02:35:09-05:00</published>
+    <updated>2019-11-11T02:35:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/the-christmas-scented-house"/>
+    <title>The Christmas Scented House</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/10_c1a9fdc6-5e9a-484f-98ab-eca20676557f.jpg?v=1634717512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_only</s:tag>
+    <s:tag>christmas_candles</s:tag>
+    <s:tag>christmas_tree</s:tag>
+    <s:tag>color_gray</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355684499553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355683942497</id>
+    <published>2019-11-11T02:34:48-05:00</published>
+    <updated>2019-11-11T02:34:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/christmas-chocolate-ball"/>
+    <title>Christmas Chocolate ball</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/16.jpg?v=1634717408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            26.00 - 28.00
+            <a href="https://callisters-ishi.myshopify.com/es/products/christmas-chocolate-ball">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_only</s:tag>
+    <s:tag>brand_puma</s:tag>
+    <s:tag>brand_zara</s:tag>
+    <s:tag>christmas_candles</s:tag>
+    <s:tag>christmas_linens</s:tag>
+    <s:tag>christmas_tree</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683942497</id>
+      <title>M / Black</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683942497</id>
+      <title>M / Gray</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683942497</id>
+      <title>L / Black</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683942497</id>
+      <title>L / Gray</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683942497</id>
+      <title>XL / Black</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683942497</id>
+      <title>XL / Gray</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355683778657</id>
+    <published>2019-11-11T02:34:38-05:00</published>
+    <updated>2019-11-11T02:34:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/tinsel-hristmas-whole-hat"/>
+    <title>Tinsel Christmas whole Hat</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/9_54c9c3e2-ba47-4477-9222-634b5c876dd5.jpg?v=1634717536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas_candles</s:tag>
+    <s:tag>christmas_linens</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>size_x</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683778657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355683713121</id>
+    <published>2019-11-11T02:34:29-05:00</published>
+    <updated>2019-11-11T02:34:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/christmas-stocking-hook"/>
+    <title>Christmas Stocking Hook</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/2_cc76529f-f9a5-4844-9b48-f6e8b0706485.jpg?v=1634717427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            20.00 - 22.00
+            <a href="https://callisters-ishi.myshopify.com/es/products/christmas-stocking-hook">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_nike</s:tag>
+    <s:tag>brand_puma</s:tag>
+    <s:tag>christmas_candles</s:tag>
+    <s:tag>christmas_linens</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683713121</id>
+      <title>S / Brown</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683713121</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683713121</id>
+      <title>S / Orange</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683713121</id>
+      <title>M / Brown</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683713121</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683713121</id>
+      <title>M / Orange</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355683483745</id>
+    <published>2019-11-11T02:34:18-05:00</published>
+    <updated>2019-11-11T02:34:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/forzza-vincent-tree-stand"/>
+    <title>Forzza Vincent Tree stand</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/12_be568bec-aab8-4d23-bd2c-2225d90db6c0.jpg?v=1634717437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            40.00 - 44.00
+            <a href="https://callisters-ishi.myshopify.com/es/products/forzza-vincent-tree-stand">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_levis</s:tag>
+    <s:tag>brand_only</s:tag>
+    <s:tag>christmas_candles</s:tag>
+    <s:tag>christmas_linens</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683483745</id>
+      <title>M / Purple</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683483745</id>
+      <title>M / Green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683483745</id>
+      <title>M / Gray</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683483745</id>
+      <title>L / Purple</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683483745</id>
+      <title>L / Green</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683483745</id>
+      <title>L / Gray</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355683287137</id>
+    <published>2019-11-11T02:34:10-05:00</published>
+    <updated>2019-11-11T02:34:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/floating-scented-candles"/>
+    <title>Floating Scented candles</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/7_5c2d2dfd-198f-4129-a20f-98f1d1b6ceb2.jpg?v=1634717432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_puma</s:tag>
+    <s:tag>christmas_linens</s:tag>
+    <s:tag>christmas_tree</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355683287137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355682959457</id>
+    <published>2019-11-11T02:34:02-05:00</published>
+    <updated>2019-11-11T02:34:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/merry-christmas-gift-bag"/>
+    <title>Merry Christmas gift bag</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/8_b88f8981-a1d9-41e5-9a57-e28fbdf011be.jpg?v=1634717463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            35.00 - 37.00
+            <a href="https://callisters-ishi.myshopify.com/es/products/merry-christmas-gift-bag">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_levis</s:tag>
+    <s:tag>christmas_candles</s:tag>
+    <s:tag>christmas_linens</s:tag>
+    <s:tag>christmas_tree</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XS</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682959457</id>
+      <title>M / Red</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682959457</id>
+      <title>M / White</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682959457</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682959457</id>
+      <title>L / Red</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682959457</id>
+      <title>L / White</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682959457</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355682697313</id>
+    <published>2019-11-11T02:33:53-05:00</published>
+    <updated>2019-11-11T02:33:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/the-divamus-christmas-tree"/>
+    <title>The Divamus Christmas Tree</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/15_a47efa1b-333d-48d2-a022-88c0e2ab949e.jpg?v=1634717517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_only</s:tag>
+    <s:tag>brand_puma</s:tag>
+    <s:tag>christmas_candles</s:tag>
+    <s:tag>color_gray</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682697313</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355682435169</id>
+    <published>2019-11-11T02:33:42-05:00</published>
+    <updated>2019-11-11T02:33:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/noeleen-christmas-party-cake"/>
+    <title>Noeleen Christmas Party Cake</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/13_3a554673-1cd6-44e5-beeb-eab7581fa50e.jpg?v=1634717468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            45.00 - 47.00
+            <a href="https://callisters-ishi.myshopify.com/es/products/noeleen-christmas-party-cake">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_levis</s:tag>
+    <s:tag>brand_only</s:tag>
+    <s:tag>christmas_candles</s:tag>
+    <s:tag>christmas_linens</s:tag>
+    <s:tag>color_gray</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682435169</id>
+      <title>M / Brown</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682435169</id>
+      <title>M / Green</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682435169</id>
+      <title>M / Red</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682435169</id>
+      <title>L / Brown</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682435169</id>
+      <title>L / Green</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682435169</id>
+      <title>L / Red</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682435169</id>
+      <title>XL / Brown</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682435169</id>
+      <title>XL / Green</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682435169</id>
+      <title>XL / Red</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355682173025</id>
+    <published>2019-11-11T02:33:32-05:00</published>
+    <updated>2019-11-11T02:33:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/berlin-entertainment-unit"/>
+    <title>Berlin Entertainment Unit</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/6.jpg?v=1634717384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            30.00 - 34.00
+            <a href="https://callisters-ishi.myshopify.com/es/products/berlin-entertainment-unit">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_puma</s:tag>
+    <s:tag>color_gray</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:tag>size_XS</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682173025</id>
+      <title>S / Orange</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682173025</id>
+      <title>S / Pink</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682173025</id>
+      <title>M / Orange</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682173025</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682173025</id>
+      <title>L / Orange</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355682173025</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://callisters-ishi.myshopify.com/es/products/4355681910881</id>
+    <published>2019-11-11T02:33:23-05:00</published>
+    <updated>2019-11-11T02:33:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://callisters-ishi.myshopify.com/es/products/aeron-christmas-snowman"/>
+    <title>Aeron Christmas Snowman</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0271/9288/5345/products/1.jpg?v=1634717378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Christmas<br>
+        <strong>Tipo: </strong>Christmas<br>
+        <strong>Precio: </strong>
+            50.00 - 56.00
+            <a href="https://callisters-ishi.myshopify.com/es/products/aeron-christmas-snowman">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_puma</s:tag>
+    <s:tag>christmas_candles</s:tag>
+    <s:tag>christmas_linens</s:tag>
+    <s:tag>christmas_tree</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_gray</s:tag>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355681910881</id>
+      <title>S / Green</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355681910881</id>
+      <title>S / Red</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355681910881</id>
+      <title>S / Yellow</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355681910881</id>
+      <title>M / Green</title>
+      <s:price currency="USD">53.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355681910881</id>
+      <title>M / Red</title>
+      <s:price currency="USD">53.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355681910881</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">53.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355681910881</id>
+      <title>L / Green</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355681910881</id>
+      <title>L / Red</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://callisters-ishi.myshopify.com/es/products/4355681910881</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
